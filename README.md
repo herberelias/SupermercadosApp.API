@@ -1,0 +1,2 @@
+# SupermercadosApp.API
+SupermercadosApp.API
